@@ -1,0 +1,22 @@
+.footer{
+    background-color: rgb(131, 131, 131);
+}
+
+.footer ul{
+    padding: 0;
+}
+.footer ul li{
+    list-style: none;
+}
+.footer ul li a{
+    font-size: 40px;
+    color: #dc3545;
+    margin: 8px;
+}
+.footer p{
+    background-color: rgb(34, 32, 32);
+    margin: 0;
+    padding: 15px 0;
+    color: #fff;
+    font-weight: 500;
+}

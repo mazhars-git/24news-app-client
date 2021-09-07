@@ -25,16 +25,16 @@ const Slider = () => {
                         <div class="carousel-item">
                             <img src={sliderImg_2} class="d-block w-100" alt="..." />
                             <div class="carousel-caption d-none d-md-block slider-content">
-                                <h5>Second slide label</h5>
-                                <p>Some representative placeholder content for the second slide.</p>
+                                <h3>Schools and colleges are ...</h3>
+                                <p>The decision came during an inter-ministerial meeting at the Secretariat in Dhaka this afternoon.</p>
                             </div>
                         </div>
 
                         <div class="carousel-item">
                             <img src={sliderImg_3} class="d-block w-100" alt="..." />
                             <div class="carousel-caption d-none d-md-block slider-content">
-                                <h5>Third slide label</h5>
-                                <p>Some representative placeholder content for the third slide.</p>
+                                <h3>Billionaire .... Philippine Airlines</h3>
+                                <p>Philippine Airlines—controlled by billionaire Lucio Tan—made its much-anticipated bankruptcy filing in the U.S.</p>
                             </div>
                         </div>
                     </div>

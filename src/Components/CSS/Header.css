@@ -1,0 +1,21 @@
+
+  /**breaking news*/
+  
+  .news {
+    width: 160px
+}
+
+.news-scroll a {
+    text-decoration: none;
+}
+
+.dot {
+    height: 6px;
+    width: 6px;
+    margin-left: 20px;
+    margin-right: 5px;
+    margin-top: 2px !important;
+    background-color: rgb(207, 23, 23);
+    border-radius: 50%;
+    display: inline-block
+}

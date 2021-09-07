@@ -2,6 +2,7 @@ import React from 'react';
 import MainMenu from '../MainMenu/MainMenu';
 
 const PostNews = () => {
+    
     return (
         <section className="container">
             <MainMenu />

@@ -1,0 +1,13 @@
+.category{
+
+}
+.category ul li{
+    list-style: none;
+    border: 2px solid black;
+}
+
+.category ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+}

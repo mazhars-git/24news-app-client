@@ -1,0 +1,11 @@
+.sidebar{
+    text-align: center;
+    align-self: center;
+}
+
+.sidebar ul li{
+    list-style: none;
+    margin: 10px 0;
+    border: 1px solid gray;
+    padding: 5px;
+}

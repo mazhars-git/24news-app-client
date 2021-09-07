@@ -1,5 +1,7 @@
 import React from 'react';
+import Category from '../Category/Category';
 import '../CSS/Header.css';
+import Sidebar from '../Sidebar/Sidebar';
 import Slider from '../Slider/Slider';
 
 const Header = () => {
@@ -26,13 +28,13 @@ const Header = () => {
 
                 <div className="row py-2">
                     <div className="col-md-2">
-                        
+                        <Sidebar />
                     </div>
                     <div className="col-md-8">
                         <Slider />
                     </div>
                     <div className="col-md-2">
-                        
+                        <Category />
                     </div>
                 </div>
 

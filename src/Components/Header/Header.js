@@ -1,5 +1,6 @@
 import React from 'react';
 import '../CSS/Header.css';
+import Slider from '../Slider/Slider';
 
 const Header = () => {
     return (
@@ -23,8 +24,14 @@ const Header = () => {
                     </div>
                 </div>
 
-                <div className="row">
+                <div className="row py-2">
+                    <div className="col-md-2">
+                        
+                    </div>
                     <div className="col-md-8">
+                        <Slider />
+                    </div>
+                    <div className="col-md-2">
                         
                     </div>
                 </div>
